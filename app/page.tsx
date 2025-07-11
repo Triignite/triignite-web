@@ -98,10 +98,11 @@ export default function HomePage() {
                   <Star className="h-5 w-5 text-yellow-500 fill-current" />
                   <span className="ml-2 text-sm text-muted-foreground">App Store</span>
                 </div>
-                <h3 className="text-2xl font-bold mb-4">Paraphraser Tool</h3>
+                <h3 className="text-2xl font-bold mb-4">In Production</h3>
                 <p className="text-muted-foreground mb-6">
-                  A powerful and intuitive paraphrasing tool that helps users rewrite content while maintaining meaning
-                  and context. Perfect for students, writers, and professionals.
+                  {/* A powerful and intuitive paraphrasing tool that helps users rewrite content while maintaining meaning
+                  and context. Perfect for students, writers, and professionals. */}
+                  We're constantly working on new and innovative applications. Stay tuned for exciting releases that will
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4">
                   <Button asChild>

@@ -38,7 +38,7 @@ export default function ProductsPage() {
 
             <CardHeader>
               <div className="flex items-center justify-between">
-                <CardTitle className="text-2xl">Paraphraser Tool</CardTitle>
+                <CardTitle className="text-2xl">Coming Soon</CardTitle>
                 <div className="flex items-center">
                   <Star className="h-4 w-4 text-yellow-500 fill-current" />
                   <Star className="h-4 w-4 text-yellow-500 fill-current" />
@@ -56,16 +56,17 @@ export default function ProductsPage() {
 
             <CardContent>
               <CardDescription className="text-base mb-6">
-                A sophisticated paraphrasing tool that helps users rewrite content while preserving meaning and context.
-                Perfect for students, content creators, and professionals who need to rephrase text efficiently.
+                {/* A sophisticated paraphrasing tool that helps users rewrite content while preserving meaning and context.
+                Perfect for students, content creators, and professionals who need to rephrase text efficiently. */}
+                We're constantly working on new and innovative applications. Stay tuned for exciting releases that will
               </CardDescription>
 
               <div className="space-y-4 mb-6">
                 <div>
                   <h4 className="font-semibold mb-2">Key Features:</h4>
                   <ul className="text-sm text-muted-foreground space-y-1">
-                    <li>• Advanced AI-powered paraphrasing</li>
-                    <li>• Multiple rewriting modes</li>
+                    {/* <li>• Advanced AI-powered paraphrasing</li> */}
+                    {/* <li>• Multiple rewriting modes</li> */}
                     <li>• Clean, intuitive interface</li>
                     <li>• Fast and accurate results</li>
                     <li>• Offline functionality</li>
